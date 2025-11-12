@@ -1,5 +1,6 @@
 # calculadora.py
 # Script básico para operaciones matemáticas
+# Comentario para modificación del archivo
 
 numero_1 = float(input("Primer número: "))
 numero_2 = float(input("Segundo número: "))
